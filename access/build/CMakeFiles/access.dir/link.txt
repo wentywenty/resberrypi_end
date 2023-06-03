@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/access.dir/main.cpp.o CMakeFiles/access.dir/shixian.cpp.o CMakeFiles/access.dir/jsoncpp.cpp.o -o access 

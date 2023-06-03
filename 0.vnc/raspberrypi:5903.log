@@ -1,0 +1,148 @@
+
+Xvnc TigerVNC 1.11.0 - built 2022-01-26 17:59
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12011000, The X.Org Foundation
+
+
+Thu Jun  1 14:37:45 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5903
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'raspberrypi:3 (pi)' on port 5903 for display :3.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/pi/.vnc/passwd :3 to connect to the VNC server.
+Can't exec "/home/pi/.vnc/xstartup": Permission denied at /usr/share/perl5/TigerVNC/Wrapper.pm line 1073.
+
+Thu Jun  1 14:37:46 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+Xvnc TigerVNC 1.11.0 - built 2022-01-26 17:59
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12011000, The X.Org Foundation
+
+
+Thu Jun  1 14:47:38 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5903
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'raspberrypi:3 (pi)' on port 5903 for display :3.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/pi/.vnc/passwd :3 to connect to the VNC server.
+Can't exec "/home/pi/.vnc/xstartup": Permission denied at /usr/share/perl5/TigerVNC/Wrapper.pm line 1073.
+
+Thu Jun  1 14:47:39 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+Xvnc TigerVNC 1.11.0 - built 2022-01-26 17:59
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12011000, The X.Org Foundation
+
+
+Thu Jun  1 14:48:52 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5903
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'raspberrypi:3 (pi)' on port 5903 for display :3.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth,TLSVnc -passwd /home/pi/.vnc/passwd raspberrypi:3 to connect to the VNC server.
+
+Thu Jun  1 14:49:18 2023
+ Connections: accepted: 192.168.43.206::54592
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type VncAuth (2)
+
+Thu Jun  1 14:49:21 2023
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+Thu Jun  1 14:49:22 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+
+Thu Jun  1 14:49:37 2023
+ VNCSConnST:  closing 192.168.43.206::54592: Clean disconnection
+ EncodeManager: Framebuffer updates: 13
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 15 rects, 3.07564 Mpixels
+ EncodeManager:            240 B (1:51261.4 ratio)
+ EncodeManager:     Bitmap RLE: 20 rects, 7.344 kpixels
+ EncodeManager:                 1.19922 KiB (1:24.1173 ratio)
+ EncodeManager:     Indexed RLE: 3 rects, 17.302 kpixels
+ EncodeManager:                  990 B (1:69.9434 ratio)
+ EncodeManager:   Total: 38 rects, 3.10029 Mpixels
+ EncodeManager:          2.40039 KiB (1:5045.4 ratio)
+ Connections: closed: 192.168.43.206::54592
+ ComparingUpdateTracker: 12.462 kpixels in / 9.566 kpixels out
+ ComparingUpdateTracker: (1:1.30274 ratio)
+/usr/bin/xterm: fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":3"
+
+Thu Jun  1 14:51:39 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+The X session exited with status 84!
+Killing Xtigervnc process ID 3641... success!
+
+Xvnc TigerVNC 1.11.0 - built 2022-01-26 17:59
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12011000, The X.Org Foundation
+
+
+Thu Jun  1 14:52:06 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5903
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'raspberrypi:3 (pi)' on port 5903 for display :3.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth,TLSVnc -passwd /home/pi/.vnc/passwd raspberrypi:3 to connect to the VNC server.
+
+Thu Jun  1 14:52:15 2023
+ Connections: accepted: 192.168.43.206::40956
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Thu Jun  1 14:52:22 2023
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 6 (8bpp) rgb222
+
+Thu Jun  1 14:52:30 2023
+ VNCSConnST:  closing 192.168.43.206::40956: Clean disconnection
+ EncodeManager: Framebuffer updates: 34
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 52 rects, 1.84641 Mpixels
+ EncodeManager:            884 B (1:2089.4 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 11 rects, 587.952 kpixels
+ EncodeManager:                 942 B (1:624.293 ratio)
+ EncodeManager:     Indexed RLE: 2 rects, 82.56 kpixels
+ EncodeManager:                  595 B (1:138.797 ratio)
+ EncodeManager:   Total: 65 rects, 2.51692 Mpixels
+ EncodeManager:          2.36426 KiB (1:1039.94 ratio)
+ Connections: closed: 192.168.43.206::40956
+ ComparingUpdateTracker: 196.368 kpixels in / 195.642 kpixels out
+ ComparingUpdateTracker: (1:1.00371 ratio)
+Warning: VNC extension does not support -reset, terminating instead. Use -noreset to prevent termination.
+Killing Xtigervnc process ID 3692...
+Thu Jun  1 14:58:13 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)
+ success!
+
+Xvnc TigerVNC 1.11.0 - built 2022-01-26 17:59
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12011000, The X.Org Foundation
+
+
+Thu Jun  1 15:09:31 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5903
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'raspberrypi:3 (pi)' on port 5903 for display :3.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/pi/.vnc/passwd :3 to connect to the VNC server.
+Can't exec "/home/pi/.vnc/xstartup": Permission denied at /usr/share/perl5/TigerVNC/Wrapper.pm line 1073.
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)

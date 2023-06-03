@@ -1,0 +1,18 @@
+
+Xvnc TigerVNC 1.11.0 - built 2022-01-26 17:59
+Copyright (C) 1999-2020 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12011000, The X.Org Foundation
+
+
+Thu Jun  1 14:56:45 2023
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5904
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'raspberrypi:4 (pi)' on port 5904 for display :4.
+3NI3X0 Use xtigervncviewer -SecurityTypes VncAuth -passwd /home/pi/.vnc/passwd :4 to connect to the VNC server.
+Can't exec "/home/pi/.vnc/xstartup": Permission denied at /usr/share/perl5/TigerVNC/Wrapper.pm line 1073.
+
+Thu Jun  1 14:56:46 2023
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:nan ratio)

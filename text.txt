@@ -1,0 +1,16 @@
+[01681b98] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[7380f5f0] mmal_codec decoder: VCSM init succeeded: CMA
+[7380f5f0] main decoder error: buffer deadlock prevented
+[73509280] gles2 gl: Initialized libplacebo v2.72.0 (API v72)
+[73500728] mmal_xsplitter vout display error: Failed to open Xsplitter:mmal_vout module
+[73500728] mmal_xsplitter vout display: Try drm
+[502f48c0] drm_vout generic: <<< OpenDrmVout: Fmt=MMAL
+[502f48c0] drm_vout generic error: create_lease failed: Xerror 8
+[502f48c0] drm_vout generic error: Failed to get xlease
+[73500728] mmal_xsplitter vout display error: Failed to open Xsplitter:drm_vout module
+[73500728] mmal_xsplitter vout display: Drm no go
+[016fe768] main playlist: end of playlist, exiting
+QObject::~QObject: Timers cannot be stopped from another thread
+VLC media player 3.0.18 Vetinari (revision 3.0.13-8-g41878ff4f2)
+[011beb98] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+

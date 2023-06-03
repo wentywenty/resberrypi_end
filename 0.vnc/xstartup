@@ -1,0 +1,16 @@
+
+#1/bin/sh
+
+export XKl_XMODMAP_DISABLE=1
+
+unset SESSION_MANAGER
+
+gnome-panal &
+
+gnome-settings-daemon &
+
+metacity &
+
+nautilus &
+
+gnome-terminal &
